@@ -1,6 +1,6 @@
 Kimberly Tom
 
-Readme file for Project 2, TCP File Transfer System:
+Readme file for TCP File Transfer System:
 
 ftserver.c was written in C.
 ftclient.py was written in python.
