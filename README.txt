@@ -1,6 +1,4 @@
 Kimberly Tom
-11/28/19
-CS 372
 
 Readme file for Project 2, TCP File Transfer System:
 
